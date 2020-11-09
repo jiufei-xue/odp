@@ -1,0 +1,19 @@
+<map id="queue.h" name="queue.h">
+<area shape="rect" id="node3" href="$event_8h.html" title="ODP event. " alt="" coords="841,80,962,107"/>
+<area shape="rect" id="node23" href="$queue__types_8h.html" title="ODP queue types. " alt="" coords="201,379,348,420"/>
+<area shape="rect" id="node5" href="$spec_2event_8h.html" title="ODP event. " alt="" coords="824,155,979,181"/>
+<area shape="rect" id="node6" href="$packet_8h.html" title="ODP packet descriptor. " alt="" coords="837,229,965,256"/>
+<area shape="rect" id="node7" href="$std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="1137,468,1284,495"/>
+<area shape="rect" id="node19" href="$spec_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="1011,304,1173,331"/>
+<area shape="rect" id="node9" href="$spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="915,550,1096,577"/>
+<area shape="rect" id="node11" href="$align_8h.html" title="ODP alignments. " alt="" coords="947,632,1061,659"/>
+<area shape="rect" id="node13" href="$spec_2align_8h.html" title="ODP alignments. " alt="" coords="928,707,1077,733"/>
+<area shape="rect" id="node20" href="$time_8h.html" title="ODP time. " alt="" coords="997,386,1112,413"/>
+<area shape="rect" id="node22" href="$spec_2time_8h.html" title="ODP time. " alt="" coords="755,707,903,733"/>
+<area shape="rect" id="node24" href="$schedule__types_8h.html" title="ODP schedule. " alt="" coords="379,468,563,495"/>
+<area shape="rect" id="node29" href="$deprecated_8h.html" title="Control deprecated API definitions. " alt="" coords="195,468,354,495"/>
+<area shape="rect" id="node26" href="$spec_2schedule__types_8h.html" title="ODP schedule types. " alt="" coords="514,543,678,584"/>
+<area shape="rect" id="node27" href="$support_8h.html" title="ODP support API &#45; platform specific header. " alt="" coords="529,632,663,659"/>
+<area shape="rect" id="node28" href="$spec_2support_8h.html" title="ODP support API. " alt="" coords="512,707,680,733"/>
+<area shape="rect" id="node30" href="$spec_2deprecated_8h.html" title="Macro for deprecated API definitions. " alt="" coords="245,707,437,733"/>
+</map>

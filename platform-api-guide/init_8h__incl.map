@@ -1,0 +1,16 @@
+<map id="init.h" name="init.h">
+<area shape="rect" id="node3" href="$spec_2init_8h.html" title="odp/api/spec/init.h" alt="" coords="608,80,747,107"/>
+<area shape="rect" id="node5" href="$std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="484,304,631,331"/>
+<area shape="rect" id="node13" href="$hints_8h.html" title="ODP compiler hints. " alt="" coords="226,155,342,181"/>
+<area shape="rect" id="node15" href="$feature_8h.html" title="ODP features. " alt="" coords="612,155,743,181"/>
+<area shape="rect" id="node17" href="$thread_8h.html" title="ODP thread API. " alt="" coords="1030,453,1157,480"/>
+<area shape="rect" id="node21" href="$cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="1309,453,1451,480"/>
+<area shape="rect" id="node7" href="$spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="467,379,648,405"/>
+<area shape="rect" id="node9" href="$align_8h.html" title="ODP alignments. " alt="" coords="500,453,615,480"/>
+<area shape="rect" id="node11" href="$spec_2align_8h.html" title="ODP alignments. " alt="" coords="483,535,632,562"/>
+<area shape="rect" id="node14" href="$spec_2hints_8h.html" title="ODP compiler hints. " alt="" coords="145,535,295,562"/>
+<area shape="rect" id="node16" href="$spec_2feature_8h.html" title="ODP features. " alt="" coords="595,229,760,256"/>
+<area shape="rect" id="node18" href="$thread__types_8h.html" title="ODP thread API types. " alt="" coords="1068,528,1217,569"/>
+<area shape="rect" id="node20" href="$spec_2thread_8h.html" title="ODP thread API. " alt="" coords="707,535,869,562"/>
+<area shape="rect" id="node23" href="$spec_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="1242,535,1419,562"/>
+</map>

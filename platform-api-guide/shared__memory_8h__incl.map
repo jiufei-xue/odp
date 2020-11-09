@@ -1,0 +1,18 @@
+<map id="shared_memory.h" name="shared_memory.h">
+<area shape="rect" id="node3" href="$spec_2shared__memory_8h.html" title="ODP shared memory. " alt="" coords="513,80,663,121"/>
+<area shape="rect" id="node5" href="$init_8h.html" title="ODP initialization. " alt="" coords="536,169,640,196"/>
+<area shape="rect" id="node7" href="$spec_2init_8h.html" title="odp/api/spec/init.h" alt="" coords="440,244,579,271"/>
+<area shape="rect" id="node8" href="$std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="316,468,463,495"/>
+<area shape="rect" id="node16" href="$hints_8h.html" title="ODP compiler hints. " alt="" coords="903,319,1019,345"/>
+<area shape="rect" id="node18" href="$feature_8h.html" title="ODP features. " alt="" coords="444,319,575,345"/>
+<area shape="rect" id="node20" href="$thread_8h.html" title="ODP thread API. " alt="" coords="1297,617,1423,644"/>
+<area shape="rect" id="node24" href="$cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="183,617,326,644"/>
+<area shape="rect" id="node10" href="$spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="537,543,719,569"/>
+<area shape="rect" id="node12" href="$align_8h.html" title="ODP alignments. " alt="" coords="687,617,801,644"/>
+<area shape="rect" id="node14" href="$spec_2align_8h.html" title="ODP alignments. " alt="" coords="751,699,900,726"/>
+<area shape="rect" id="node17" href="$spec_2hints_8h.html" title="ODP compiler hints. " alt="" coords="925,699,1075,726"/>
+<area shape="rect" id="node19" href="$spec_2feature_8h.html" title="ODP features. " alt="" coords="427,393,592,420"/>
+<area shape="rect" id="node21" href="$thread__types_8h.html" title="ODP thread API types. " alt="" coords="1285,692,1435,733"/>
+<area shape="rect" id="node23" href="$spec_2thread_8h.html" title="ODP thread API. " alt="" coords="1099,699,1261,726"/>
+<area shape="rect" id="node26" href="$spec_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="285,699,462,726"/>
+</map>
